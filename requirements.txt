@@ -5,3 +5,4 @@ ansible-lint
 docker
 flake8
 jmespath
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
